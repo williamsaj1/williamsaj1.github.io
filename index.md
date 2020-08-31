@@ -1,3 +1,5 @@
+[My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
+
 **Exercise 3: Lemon Squeezer August 31:**  
 Create detailed model of a lemon squeezer.  
   
@@ -24,8 +26,8 @@ I started by placing every planet. In order to let each planet rotate while orbi
 
 Using keyframe animation, I gave every planet a unique orbit that is somewhat realistic in that the further away the planet is, the longer it takes to complete a cycle.
 If the .avi is supported here, it will be below.  
+[The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/exercise2SolarSystem.mb)  
 
-![Image](https://williamsaj1.github.io/siteImages/ex2/WilliamsA_vid.avi)  
 --------------------
 **Exercise 1: Robot August 24:**  
 Build a robot, only based on primitives, limited to scaling, translating, and rotating.  
