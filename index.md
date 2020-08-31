@@ -14,7 +14,8 @@ All that was left was to raise the outer edge and add a lip.
 
 ![Image](https://williamsaj1.github.io/siteImages/ex3/exercise3pic3.png)   
 ![Image](https://williamsaj1.github.io/siteImages/ex3/exercise3pic4.png)  
---------------------
+  
+  
 **Exercise 2: Solar System August 31:**  
 Animate and shade all planets and moons in the solar system. Include orbits and rotations for all objects. Use shapes that allow the rotations of objects to be seen.  
   
@@ -28,7 +29,8 @@ Using keyframe animation, I gave every planet a unique orbit that is somewhat re
 If the .avi is supported here, it will be below.  
 [The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/exercise2SolarSystem.mb)  
 
---------------------
+  
+  
 **Exercise 1: Robot August 24:**  
 Build a robot, only based on primitives, limited to scaling, translating, and rotating.  
 Use each primitive at least once.  
