@@ -1,5 +1,14 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
 
+**Exercise 4: Desk September 9:**  
+Model this desk. Was also given the option to model it with the keboard drawer closed.  
+![Image](https://williamsaj1.github.io/siteImages/ex4/exercise4pic1.png)  
+
+This desk started as a cube. Using symmetry over the X, or Z axis at times, I added edge loops that could be used to make more faces to extrude. Because of the symmetry, I only had to focus on making one side of the desk. Fine changes in the shapes were made by scaling edges. The legs were created separately by using the same methods of the desk. The knobs are cubes that I used the smooth tube on after shaping them as handles.  
+![Image](https://williamsaj1.github.io/siteImages/ex4/exercise4pic2.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex4/exercise4pic3.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex4/exercise4pic4.png)  
+
 **Exercise 3: Lemon Squeezer August 31:**  
 Create detailed model of a lemon squeezer.  
   
