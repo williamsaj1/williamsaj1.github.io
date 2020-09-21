@@ -1,5 +1,13 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
 
+**Exercise 5: Lamp September 21:**  
+Model this lamp using nurbs tools.
+![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic3.png)  
+
+Using the cv curve tool, I drew the orthagonal shape of one edge of the lamp. I then used revolve to make it a full object. The base was squared by scaling 4 of the vertices to make a sharper angle. The shade was made by making one line and revolving it around the center of the lamp base.
+![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic1.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic2.png)  
+
 **Exercise 4: Desk September 9:**  
 Model this desk. Was also given the option to model it with the keboard drawer closed.  
 ![Image](https://williamsaj1.github.io/siteImages/ex4/exercise4pic1.png)  
