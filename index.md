@@ -4,7 +4,7 @@
 Model this lamp using nurbs tools.
 ![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic3.png)  
 
-Using the cv curve tool, I drew the orthagonal shape of one edge of the lamp. I then used revolve to make it a full object. The base was squared by scaling 4 of the vertices to make a sharper angle. The shade was made by making one line and revolving it around the center of the lamp base.
+Using the cv curve tool, I drew the orthagonal shape of one edge of the lamp. I then used revolve to make it a full object. The base was squared by scaling 4 of the vertices to make a sharper angle. The shade was made by making one line and revolving it around the center of the lamp base.  
 ![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic1.png)  
 ![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic2.png)  
 
