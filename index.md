@@ -1,5 +1,18 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
 
+**Project 1: Car Model September 23:**  
+Model a toy car I have taken pictures of as a reference.
+![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic1.png)  
+
+This toy car started as a cube. Adding edge loops where needed, I made new faces to extrude to get the general shape of the car using reference images in the available orthagraphic views. Because I was using symetry across the middle, lengthwise, of the car, I only had to focus on one side during the process. For the finer shapes around the hood edges and outlines for the door, I translated edges and vertices. At one point, to keep a smooth look on the front bumper and hood, I used soft selection to model.  
+
+After extruding a spoiler, I deleted faces to make a hole to match the toy's spoiler. I then used the bridge tool close the shape. The tire wells were made by placing cylinders intersecting the car and then doing the boolean difference of the objects. I then used the edge cut tool to make sure there were no n-gons. The main body of the car was then smoothened. The grey pieces of the model were made seperatley. All started as cubes that were scaled and creased by scaling edge loops if needed. The tires are cylinders with some faces extruded inward to match the shapes on the toy.
+![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic2.png)  
+![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic3.png)  
+![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic4.png)  
+![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic5.png)  
+[The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/project1car_final.mb)  
+
 **Exercise 5: Lamp September 21:**  
 Model this lamp using nurbs tools.
 ![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic3.png)  
