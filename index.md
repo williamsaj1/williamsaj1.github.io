@@ -13,6 +13,40 @@ After extruding a spoiler, I deleted faces to make a hole to match the toy's spo
 ![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic5.png)  
 [The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/WilliamsA%20p1%20car.mb)  
 
+**Exercise 6: Watch how to Model a More Complex Object:**  
+
+I watched a YouTube video series, made by 8fifty2torials, of modeling a Lamborghini. I have taken notes over the course of the series.  
+  
+[Video 1](https://www.youtube.com/watch?v=J64qYhdmP54)  
+  
+Starting with the edge of a tire well with a tube keeps you from having to cut into the model. It should be able to be done by extruding from each tire section and meeting in the middle of the car.  
+  
+Edit points in every view to ensure correct spacing of model details in comparison to reference images.  
+  
+Limit edges to to only have as many as needed for shape.  
+  
+[Video 2](https://www.youtube.com/watch?v=Jbpu5Oh9u98)  
+  
+Be sure of the position of points in a scene that will have points behind them before you begin to place points behind them to avoid more confusion.  
+  
+[Video 5](https://www.youtube.com/watch?v=0qSSI_t8-K4)  
+  
+Placing an edge loop near an edge will make the bend on that edge more angular even when it is smoothened.  
+  
+Get a broad shape of sections and then add edges within it to conform to the body of the car instead of extruding every small detail.  
+  
+Leaving objects with low polygons makes them easier to attach to other shapes.  
+  
+[Video 6](https://www.youtube.com/watch?v=VKePpdbSpsE)  
+  
+Snapping to vertex and then merging is more precise and manageable than using the weld tool.  
+  
+You definitely need more than just the front, side, back, and ¾ reference images. There are many more details that will take having multiple viewing angles to notice.  
+  
+[Video 7](https://www.youtube.com/watch?v=pTvRBsiQJxM)  
+  
+Although more involved, moving vertices manually is better than soft select when using references.  
+
 **Exercise 5: Lamp September 21:**  
 Model this lamp using nurbs tools.
 ![Image](https://williamsaj1.github.io/siteImages/ex5/exercise5pic3.png)  
