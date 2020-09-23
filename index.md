@@ -11,7 +11,7 @@ After extruding a spoiler, I deleted faces to make a hole to match the toy's spo
 ![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic3.png)  
 ![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic4.png)  
 ![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic5.png)  
-[The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/project1car_final.mb)  
+[The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/WilliamsA%20p1%20car.mb)  
 
 **Exercise 5: Lamp September 21:**  
 Model this lamp using nurbs tools.
