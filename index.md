@@ -1,5 +1,12 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
 
+**Exercise 7: Nurbs Shoe September 28:**  
+Model a high-heel shoe using nurbs tools.  
+
+While my first attempt involved drawing curves for every piece of the shoe with the cv and ep tools, curves were only drawn for the foot shape and heel on this one. I then used the birail tool to make the surfaces over the curves. I revolved a curve to make the heel and scaled some of the control vertices to make it look better. I used nurbs cubes for every other piece of the shoe. They were scaled and then rotated and translated with soft selection to flow easily.
+![Image](https://williamsaj1.github.io/siteImages/ex7/exercise7pic1.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex7/exercise7pic2.png)  
+  
 **Project 1: Car Model September 23:**  
 Model a toy car I have taken pictures of as a reference.
 ![Image](https://williamsaj1.github.io/siteImages/proj1/project1pic1.png)  
