@@ -1,4 +1,14 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
+  
+**Exercise 9: Shading and Lighing October 7:**  
+Shade and light two spheres to make them look like the pictures.
+
+The orange was made by applying a blinn texture to the sphere with a leather bump map. Spotlights were used to get specularity around certain areas of it.  
+![Image](https://williamsaj1.github.io/siteImages/ex7/exercise9pic1.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex7/exercise9pic2.png)  
+Jupiter was made using a ramp texture with the directional lights above and below it as inputs.  
+![Image](https://williamsaj1.github.io/siteImages/ex7/exercise9pic3.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex7/exercise9pic4.png)  
 
 **Exercise 7: Nurbs Shoe September 28:**  
 Model a high-heel shoe using nurbs tools.  
