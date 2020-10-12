@@ -9,7 +9,7 @@ Create a moving camera that shows your scene
 I used phong shaders for everything except the matte gray peices of the toy car. For those I used a lambert shader. The floor is a phong material with the specularity turned down.  
 I lit the scene using arnold area lights, varying their intensities and roundness. I went for a dark but polished look that is visible but might help hide some imperfections in the model.
   
-![Image](https://williamsaj1.github.io/siteImages/ex10exercise10pic1.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex10/exercise10pic1.png)  
 Because I can't put a playable video here, this is a frame from the 4 second video. I have also placed a link to download the [video](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/renders/WilliamsA_carRender.mp4).  
 ![Image](https://williamsaj1.github.io/siteImages/ex10/exercise10pic2.png)  
 **Exercise 9: Shading and Lighing October 7:**  
