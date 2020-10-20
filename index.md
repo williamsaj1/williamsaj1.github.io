@@ -1,5 +1,20 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
   
+**Exercise 11: Principles of Animation October 19:**  
+Find three examples of the Principles of Animation within a movie.  
+  
+I chose to take a look at the movie, Spirited Away. The scene is of a pig-man falling out of a chair while eating.  
+![Image](https://williamsaj1.github.io/siteImages/ex11/exercise11pic1.png)  
+Anticipation:  
+The slow build of the chair tilting before the fall is a use of anticipation. Using timing by having more frames in this area accentuates the quick fall afterward.  
+  
+Secondary Action:  
+There is a lot of background movement of smoke and a few characters. Im focusing on the animaition of the pig-man's arm brushing food from the counter and the saliva dripping from his mouth as he begins to fall. I have never noticed it before but I see that it adds to the sense of a sloppy mess.  
+  
+Arcs:  
+Before the fall, the girl appears to be shaking the way she is drawn. This is just a moving hold to keep her from being stagnant.  
+
+  
 **Exercise 10: High Quality Render October 12:**  
 Make your model from project 1 look as great as you can, with
 shading, lighting, and rendering.  
