@@ -11,7 +11,7 @@ The slow build of the chair tilting before the fall is a use of anticipation. Us
 Secondary Action:  
 There is a lot of background movement of smoke and a few characters. Im focusing on the animaition of the pig-man's arm brushing food from the counter and the saliva dripping from his mouth as he begins to fall. I have never noticed it before but I see that it adds to the sense of a sloppy mess.  
   
-Arcs:  
+Moving Hold:  
 Before the fall, the girl appears to be shaking the way she is drawn. This is just a moving hold to keep her from being stagnant.  
 
   
