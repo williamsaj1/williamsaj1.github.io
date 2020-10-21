@@ -1,5 +1,25 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
   
+**Project 2: Replicating a Scene October 21:**  
+For this project, I was tasked with rendering a real scene with maya modeling. I chose to take a picture of my guitar and surrounding doors using natural light, candle light, colored led lights, and a lamp.  
+![Image](https://williamsaj1.github.io/siteImages/proj2/guitarOriginalPicture.jpg)  
+![Image](https://williamsaj1.github.io/siteImages/proj2/guitarRender.png)  
+  
+I started by modeling the doors, guitar and floor using polygons.
+The guitar body is textured with the Arnold standard surface with a water texture after I learned the wood 3-d texture I started with did not work well with the Arnold renderer.
+The candle is comprised of cones that have a glow by default and also mesh lights to match. The candle wax also has a mesh light in it to mimic the glow seen in liquid wax. 
+There are also uses of Arnold's texture setting, mettalic. This was used to make the rose gold of the guitar capo and the door knobs.
+The floor has a fractal with the frequency turned up to get more random-looking spotting like the original picture.  
+  
+The glass around the candle is translucent and transparent, allowing both light and other objects to be seen through them but apply a bluish tint.
+After messing with the intensity of the sky dome I decided I should keep it bright but block the light coming from the sides and top with some cubes.  
+![Image](https://williamsaj1.github.io/siteImages/proj2/project2pic2.png)  
+I found the best way to edit the effect of the lights is to change both the intensity and exposure. For shaping, I scaled the area light or changed the spread and roundness. The only light colors I used were a light yellow to mimic sunlight and candle, white for the lamp, and blue-green for the led light.  
+![Image](https://williamsaj1.github.io/siteImages/proj2/guitarPerspective1.png)  
+![Image](https://williamsaj1.github.io/siteImages/proj2/guitarPerspective2.png)  
+![Image](https://williamsaj1.github.io/siteImages/proj2/guitarPerspective3.png)  
+[The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/WilliamsA%20p2%20maya.mb)  
+  
 **Exercise 11: Principles of Animation October 19:**  
 Find three examples of the Principles of Animation within a movie.  
   
