@@ -6,7 +6,7 @@ Create one alteration of a walkcycle. I chose to do one that showed fear or disc
 ![Image](https://williamsaj1.github.io/siteImages/ex13/exercise13pic1.png)  
 I included eratic movements of the head to signify looking around for threats and self comfort motions with the arms. I tried to keep the step size small to keep the movement timid. I also figured reducing the sway of walking would show discomfort.  
   
-I have placed a link to download the [video](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/renders/blockManWalk.mp4).  
+I have placed a link to download the [video](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/renders/walkManBlock.mp4).  
   
 **Project 2: Replicating a Scene October 21:**  
 For this project, I was tasked with rendering a real scene with maya modeling. I chose to take a picture of my guitar and surrounding doors using natural light, candle light, colored led lights, and a lamp.  
