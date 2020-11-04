@@ -1,5 +1,11 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
   
+**Exercise 13: Stylized Walk Cycle November 4:**  
+Create one alteration of a walkcycle. I chose to do one that showed fear or discomfort.  
+  
+![Image](https://williamsaj1.github.io/siteImages/ex13/exercise13pic1.png)  
+Because I can't put a playable video here, this is a frame from the 4 second video. I have also placed a link to download the [video](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/renders/blockManWalk.mp4).  
+  
 **Project 2: Replicating a Scene October 21:**  
 For this project, I was tasked with rendering a real scene with maya modeling. I chose to take a picture of my guitar and surrounding doors using natural light, candle light, colored led lights, and a lamp.  
 ![Image](https://williamsaj1.github.io/siteImages/proj2/guitarOriginalPicture.jpg)  
