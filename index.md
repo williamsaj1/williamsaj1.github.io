@@ -1,5 +1,17 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
   
+**Project 3: Bringing a Unicycle to Life November 11:**  
+Texture, rig, and animate a unicycle to make a 10-20 second animation.  
+  
+I used an IK handle to control the position of the seat relative to the wheel. It seemed more intuitive with leaning than doing it manually. I made a ramp to have something interesting happen in the animation. a controller was used to animate the spinning of the wheel as the unicycle moves.
+  
+![Image](https://williamsaj1.github.io/siteImages/proj3/proj3pic1.png)  
+![Image](https://williamsaj1.github.io/siteImages/proj3/proj3pic2.png)  
+![Image](https://williamsaj1.github.io/siteImages/proj3/proj3pic3.png)  
+  
+[The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/WilliamsA%20p3unicycle%20maya.mb)  
+I have placed a link to download the [video](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/renders/WilliamsA%20p3unicycle%20vid.mp4).  
+  
 **Exercise 13: Stylized Walk Cycle November 4:**  
 Create one alteration of a walkcycle. I chose to do one that showed fear or discomfort.  
   
