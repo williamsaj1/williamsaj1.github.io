@@ -3,7 +3,7 @@
 **Project 3: Bringing a Unicycle to Life November 11:**  
 Texture, rig, and animate a unicycle to make a 10-20 second animation.  
   
-I used an IK handle to control the position of the seat relative to the wheel. It seemed more intuitive with leaning than doing it manually. I made a ramp to have something interesting happen in the animation. a controller was used to animate the spinning of the wheel as the unicycle moves.
+I used an IK handle to control the position of the seat relative to the wheel. It seemed more intuitive with leaning than doing it manually. I made a ramp to have something interesting happen in the animation. A controller with an expression was used to animate the spinning of the wheel as the unicycle moves.
   
 ![Image](https://williamsaj1.github.io/siteImages/proj3/project3pic1.png)  
 ![Image](https://williamsaj1.github.io/siteImages/proj3/project3pic2.png)  
