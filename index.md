@@ -1,5 +1,20 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
   
+**Exercise 14: Watch a video November 16:**  
+Watch a tutorial on rigging or animation in Maya.  
+  
+I watched a video on Youtube by Raph Crimson on 3D character rigging in Maya 2020.
+[Video](https://www.youtube.com/watch?v=gUqqm3e4SfM)  
+  
+Mirror Joint: It saves time rigging multiple limbs to mirror across an axis instead of manually adding joints. This only works if there is symmetry to exploit.  
+![Image](https://williamsaj1.github.io/siteImages/ex14/exercise14pic1.png)  
+  
+Clusters: When creating controllers with nurbs curves, I can snap the center of the controller to the centerpoint of vertices in a model by snapping to the cluster created by them. I think this could be useful if an animation includes scaling. This will ensure any scaling is from the center to prevent shearing effects as well as provide places to snap a joint.  
+![Image](https://williamsaj1.github.io/siteImages/ex14/exercise14pic2.png)  
+  
+Set driven keys: These can be used to set animations that repeat by binding actions to the animations of other objects in a project. Here, the toes on the AT-ST's feet are set to rotate downward as the foot goes up.  
+![Image](https://williamsaj1.github.io/siteImages/ex14/exercise14pic3.png)  
+  
 **Project 3: Bringing a Unicycle to Life November 11:**  
 Texture, rig, and animate a unicycle to make a 10-20 second animation.  
   
