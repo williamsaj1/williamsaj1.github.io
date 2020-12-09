@@ -1,7 +1,7 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
   
 **Project 4: Animating a Fight With a Giant Spider December 9:**  
-For this project I rigged skinned and animated an advanced model.  
+For this project I rigged, skinned and animated an advanced model.  
 My idea was to have a prieviously used robot model fight a giant spider to show the animation of something with more than 2 legs and hope to have something interesting.
   
 I found a model of a spider on TurboSquid made by DAlex3D. I snapped the joints in the legs to the centerpoint of vertices at the bends in the model by snapping to the cluster created by them. This was useful when rigging a model I had not made myself. After getting a good skeleton for the spider, I just needed to paint the skin weights and animate. I looked at videos of spiders walking to see how their legs ussually move. I took some creative liberties when it came to how the spider attacked the blockman.  
