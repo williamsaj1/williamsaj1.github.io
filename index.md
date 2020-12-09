@@ -22,7 +22,7 @@ I watched a video on Youtube by Raph Crimson on 3D character rigging in Maya 202
 [Video](https://www.youtube.com/watch?v=gUqqm3e4SfM)  
   
 Mirror Joint: It saves time rigging multiple limbs to mirror across an axis instead of manually adding joints. This only works if there is symmetry to exploit.  
-![Image](https://williamsaj1.github.io/siteImages/proj4/exercise14pic1.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex14/exercise14pic1.png)  
   
 Clusters: When creating controllers with nurbs curves, I can snap the center of the controller to the centerpoint of vertices in a model by snapping to the cluster created by them. I think this could be useful if an animation includes scaling. This will ensure any scaling is from the center to prevent shearing effects as well as provide places to snap a joint.  
 ![Image](https://williamsaj1.github.io/siteImages/ex14/exercise14pic2.png)  
