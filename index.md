@@ -6,7 +6,7 @@ For this project I rigged skinned and animated an advanced model.
  
   
 I found a model of a spider on TurboSquid made by DAlex3D. I snapped the joints in the legs to the centerpoint of vertices at the bends in the model by snapping to the cluster created by them. This was useful when rigging a model I had not made myself. After getting a good skeleton for the spider, I just needed to paint the skin weights and animate. I looked at videos of spiders walking to see how their legs ussually move. I took some creative liberties when it came to how the spider attacked the blockman.  
-![Image](https://williamsaj1.github.io/siteImages/ex14/project4pic1.png) 
+![Image](https://williamsaj1.github.io/siteImages/proj4/project4pic1.png) 
 ![Image](https://williamsaj1.github.io/siteImages/proj4/project4pic2.png)  
 ![Image](https://williamsaj1.github.io/siteImages/proj4/project4pic3.png)  
     
