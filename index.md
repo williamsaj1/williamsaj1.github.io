@@ -1,5 +1,17 @@
 [My Github Repository](https://github.com/williamsaj1/williamsaj1.github.io)  
   
+**Project 4: December 9:**  
+For this project I rigged skinned and animated an advanced model.
+  
+![Image](https://williamsaj1.github.io/siteImages/ex14/project4pic1.png)  
+  
+I found a model of a spider on made by. I snapped the joints in the legs to the centerpoint of vertices at the bends in the model by snapping to the cluster created by them. This was useful when rigging a model I had not made myself. After getting a good skeleton for the spider, I just needed to paint the skin weights and animate. I looked at videos of spiders walking to see how their legs ussually move. I took some creative liberties when it came to how the spider attacked the blockman.  
+![Image](https://williamsaj1.github.io/siteImages/ex14/project4pic2.png)  
+![Image](https://williamsaj1.github.io/siteImages/ex14/project4pic3.png)  
+  
+[The maya 2019 project file](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/mayaProjects/WilliamsA%20p4%20maya.mb)  
+I have placed a link to download the [video](https://github.com/williamsaj1/williamsaj1.github.io/blob/master/renders/WilliamsA%20p4%20vid.mp4).  
+  
 **Exercise 14: Watch a video November 16:**  
 Watch a tutorial on rigging or animation in Maya.  
   
